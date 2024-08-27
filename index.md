@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **Gulp**
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+[image of large yellow emoji shrugging shoulders](https://images.app.goo.gl/kHThPbYKYAkEaXwq9)
+
 ```markdown
 Syntax highlighted code block
 **
