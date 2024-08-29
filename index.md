@@ -1,4 +1,14 @@
+# **Angel Hernandez's First CS193 Homework**
 ## Welcome to The Greatest Website Created 
+
+- The instructor understands what we go through as he is within our age.(Yippe Arman)
+- It teaches us things we'd otherwise have to teachg ourselves.
+- There is no exams or midterms which makes the class super fun
+
+ **TOP THREE FOODS**
+1. Chicken
+2. Rice
+3. Seedless Grapes
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
